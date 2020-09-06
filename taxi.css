@@ -1,0 +1,193 @@
+*{
+	margin: 0;
+	padding: 0 auto;
+}
+.dropdown{
+   position: relative;
+   display: inline-block;
+}
+.dropdown-content{
+   display: none;
+   position: absolute;
+   background-color: #f5f5f5;
+   z-index: 1;
+   list-style: none;
+}
+.dropdown:hover .dropdown-content{
+   display: block;
+}
+.lite{
+	background: #2169b3;
+}
+.khoi{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: black;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.tieude-2 .navbar-2{
+	width: 10%;
+	height: 3px;
+	background: yellow;
+	margin-top: 30px;
+	margin-left: 460px;
+	float: left;
+}
+.tieude-2 .navbar-3{
+	width: 20px;
+	height: 20px;
+	background: white;
+	border-radius: 50%;
+	float: left;
+	margin-top: 17px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid yellow;
+}
+.tieude-2 .navbar-4{
+	width: 10%;
+	height: 3px;
+	background: yellow;
+	margin-top: 30px;
+	float: left;
+}
+.page .tieude-3{
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+.page{
+	width: 80%;
+	margin: 0 auto;
+	background: white;
+	height: 2000px;
+}
+.group-product{
+	background: black;
+}
+.tieude{
+	width: 100%;
+	height: 205px;
+	background: white;
+}
+.card-product{
+	width: 280px;
+	overflow: hidden;
+}
+.card-group{
+	background: white;	
+}
+.group{
+	width: 100%;
+	background: white;
+	overflow: hidden;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.tab{
+	text-align: center;
+}
+.footer{
+	background: #abab40;
+	margin-left: 5px;
+	text-align: center;
+	margin-right: 6px;
+*{
+	margin: 0;
+	padding: 0 auto;
+}
+.dropdown{
+   position: relative;
+   display: inline-block;
+}
+.dropdown-content{
+   display: none;
+   position: absolute;
+   background-color: #f5f5f5;
+   z-index: 1;
+   list-style: none;
+}
+.dropdown:hover .dropdown-content{
+   display: block;
+}
+.lite{
+	background: #2169b3;
+}
+.khoi{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: black;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.tieude-2 .navbar-2{
+	width: 10%;
+	height: 3px;
+	background: yellow;
+	margin-top: 30px;
+	margin-left: 460px;
+	float: left;
+}
+.tieude-2 .navbar-3{
+	width: 20px;
+	height: 20px;
+	background: white;
+	border-radius: 50%;
+	float: left;
+	margin-top: 17px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 5px solid yellow;
+}
+.tieude-2 .navbar-4{
+	width: 10%;
+	height: 3px;
+	background: yellow;
+	margin-top: 30px;
+	float: left;
+}
+.page .tieude-3{
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+.page{
+	width: 80%;
+	margin: 0 auto;
+	background: white;
+	height: 2000px;
+}
+.group-product{
+	background: black;
+}
+.tieude{
+	width: 100%;
+	height: 205px;
+	background: white;
+}
+.card-product{
+	width: 280px;
+	overflow: hidden;
+}
+.card-group{
+	background: white;	
+}
+.group{
+	width: 100%;
+	background: white;
+	overflow: hidden;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.tab{
+	text-align: center;
+}
+.footer{
+	background: #abab40;
+	margin-left: 5px;
+	text-align: center;
+	margin-right: 6px;
+}
